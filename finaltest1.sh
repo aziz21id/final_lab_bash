@@ -1,6 +1,6 @@
 #!/bin/bash
 #this scripts works on CentOS
-
+#hello im mohammed
 main(){
 
 print_header() {	#print out a line to show what is being used
